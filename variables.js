@@ -8,4 +8,7 @@ console.log(typeof(hamburger))
 var aboneMi = false
 console.log(aboneMi)
 console.log(typeof(aboneMi))
+
+
+//var typeof() console.log() 
 //node variables.js
