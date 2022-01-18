@@ -1,5 +1,5 @@
-function sayiUret(){
-    return Math.ceil(Math.random() * 49)
+function sayiUret(ustLimit = 49){
+    return Math.ceil(Math.random() * ustLimit)
 }
 
  var sayi1 = sayiUret()
